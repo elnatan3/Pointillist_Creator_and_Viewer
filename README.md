@@ -25,14 +25,14 @@ os and random are built-in libraries in Python and do not need to be installed.
 
 # Features
 ## Pointillist Maker
-a. Converts an image file to a pointillist version of the image
-b. Saves the result as a .art text file
-c. Uses random x and y values and random colors to create the pointillist effect
+1. Converts an image file to a pointillist version of the image
+2. Saves the result as a .art text file
+3. Uses random x and y values and random colors to create the pointillist effect
 ## Pointillist Viewer
-a. Displays a pointillist artwork in a window in square or rectangle whichever python file you run
-b. Reads from a .art text file to retrieve the data for each circle in the artwork
-c. Scales the x and y values to fit the window size
-d. Uses the graphics library to draw circles with random colors at the given x and y coordinates
+1. Displays a pointillist artwork in a window in square or rectangle whichever python file you run
+2. Reads from a .art text file to retrieve the data for each circle in the artwork
+3. Scales the x and y values to fit the window size
+4. Uses the graphics library to draw circles with random colors at the given x and y coordinates
 
 # Contribution
 Contributions are welcome. If you want to contribute to the application, please fork the repository, make your changes, and submit a pull request. If you encounter any issues or have any suggestions, please open an issue in the repository.
