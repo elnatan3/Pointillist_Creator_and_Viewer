@@ -10,7 +10,7 @@ This code uses the following libraries:
 
 1. graphics
 2. tkinter
-3 .os
+3. os
 4. random
 To install these libraries, open a terminal or command prompt, and type:
 - pip install graphics
@@ -24,11 +24,11 @@ os and random are built-in libraries in Python and do not need to be installed.
 2. To use the Pointillist Viewer module, run the pointillist_viewer.py file. You will be prompted to choose a .art file that you want to display. Once you have chosen a .art file, the script will display the pointillist artwork in a window.
 
 # Features
-1. Pointillist Maker
+## Pointillist Maker
 a. Converts an image file to a pointillist version of the image
 b. Saves the result as a .art text file
 c. Uses random x and y values and random colors to create the pointillist effect
-2. Pointillist Viewer
+## Pointillist Viewer
 a. Displays a pointillist artwork in a window in square or rectangle whichever python file you run
 b. Reads from a .art text file to retrieve the data for each circle in the artwork
 c. Scales the x and y values to fit the window size
